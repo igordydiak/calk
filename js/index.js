@@ -8,8 +8,7 @@ setTimeout(function(){
 }, 2000);
 
 // calculator
-// heavily modified from @supah's calculator
-// https://codepen.io/supah/pen/pgGYBe
+
 var $keys = $('button');
 var $total = $('.total');
 var $summary = $('.summary');
